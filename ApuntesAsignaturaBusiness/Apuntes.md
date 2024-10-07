@@ -60,3 +60,129 @@ La economía busca satisfacer las necesidades humanas con recursos escasos.
 ## 📏 Tamaño de las empresas
 ![image](https://github.com/user-attachments/assets/ccf414e4-30b7-4039-8ce7-bfb684e5872a)
 
+# Forma Jurídica de las Empresas
+
+## Normativa - Derecho Mercantil
+- **Regulación de la actividad económica**:
+  - Define **empresa** y **empresario**.
+  - Determina la **forma jurídica**: individual o sociedad.
+  - Establece normativas sobre **contabilidad**, **publicidad** y **protección de datos**.
+
+## Marco Legislativo  
+1. **Código de Comercio** (Ley 19/1989 del 25 de julio):
+   - Regula contratos, capacidad de los contratantes, modificaciones y extinción de contratos.
+2. **Leyes especiales**:
+   - **Ley concursal**.
+   - **Reglamento del Registro Mercantil**.
+   - **Ley de patentes y marcas**.
+   - **Ley general de publicidad**.
+   - **Ley de la competencia desleal**.
+   - **Ley de sociedades de capital**.
+   - **Ley de capital riesgo**.
+
+---
+
+# Constitución de una Empresa
+
+## Obligaciones y Trámites
+- Escritura ante notario y redacción de estatutos.
+- Inscripción en el Registro Mercantil.
+- Obtener un nombre para la empresa.
+- Inscripción en Seguridad Social y Agencia Tributaria.
+- Apertura de una cuenta bancaria.
+
+---
+
+# Características Jurídicas de las Empresas
+
+- **Número mínimo de socios**.
+- **Importe mínimo de capital**.
+- **Razón social**.
+- **Fiscalidad**: IRPF e Impuesto sobre Sociedades (IS).
+
+---
+
+# Tipos de Empresas
+
+## Sociedad Civil Pública (SCP)
+- **Socios**: Mínimo 2 personas.
+- **Aportaciones**: Dinero o bienes.
+- **Reparto de beneficios**: Proporcional.
+- **Tipos de socios**: Capitalistas e industriales.
+- **Tributación**: Autónomos.
+
+## Sociedad Colectiva (SC)
+- **Socios**: Mínimo 2 personas.
+- **Capital**: No se requiere capital mínimo.
+- **Tributación**: Impuesto sobre sociedades.
+- **Gestión**: Estatutos y decisiones conjuntas de los socios.
+
+## Sociedad Limitada (SL / SRL)
+- **Requisitos**: Se puede constituir con 1 euro.
+- **Responsabilidad**: Limitada al capital aportado.
+- **Fiscalidad**: Impuesto sobre sociedades.
+- **Ideal para PYMES**.
+
+## Sociedad Anónima (SA)
+- **Capital mínimo**: 60.000 euros (25% desembolsado al inicio).
+- **Acciones**: Libre transacción.
+- **Fiscalidad**: Impuesto sobre sociedades.
+- **Estructura**: Junta general y consejo de administración.
+
+## Sociedad Laboral y Participada
+- **Propiedad**: De los trabajadores.
+- **Número mínimo de socios**: 3.
+- **Fiscalidad**: Impuesto sobre sociedades.
+
+---
+
+# Cooperativa
+
+- **Nombre**: Garu S. Coop.
+- **Objeto Social**: Comercio al por mayor de cereales, alubias verdes y guisantes verdes.
+- **Actividad CNAE**: 4621 (Comercio al por mayor de cereales, tabaco en rama, simientes y alimentos para animales).
+- **Fecha de Constitución**: 16 de abril de 1998.
+- **Requisitos para ser miembro**.
+- **Estructura de funcionamiento y estatutos**.
+
+---
+
+# Emprendimiento
+
+## Persona Emprendedora
+- **Características**:
+  - Creatividad, ingenio, visión e innovación.
+  - Responsabilidad, pasión y motivación.
+  - Liderazgo y perseverancia.
+  
+- **Perfiles de emprendedores**:
+  - **Innovador**.
+  - **Visionario**.
+  - **Accidental** (heredar una empresa o perderlo todo).
+  - **Social**.
+  - **Estilo de vida**.
+  - **Alto crecimiento**.
+  - **Franquicia**.
+
+---
+
+# Diferencia Entre Emprendedor y Empresario
+
+## Emprendedor:
+- Hace todo en el negocio.
+- Creativo e innovador.
+  
+## Empresario:
+- Toma decisiones y hace crecer el negocio.
+- Trabaja muchas horas, lidera equipos y comunica bien.
+
+---
+
+# Planificación Empresarial
+
+- **Visión**: Ideal a largo plazo.
+- **Misión**: Actividades diarias que apoyan la visión.
+- **Objetivos**:
+  - **Estratégicos**: Largo plazo.
+  - **Operacionales**: Medio plazo.
+  - **Tácticos**: Corto plazo.
