@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dea6c39e-978c-4911-abd7-d67e53c5e7d3)# 📈 Business
+# 📈 Business
 
 ## 🌱 Sostenibilidad
 Consumir y producir sin comprometer a las generaciones futuras.
@@ -279,7 +279,7 @@ La economía busca satisfacer las necesidades humanas con recursos escasos.
 - **Canales Indirectos**: Tiendas de terceros, plataformas multiproducto.
 
 ---
-![mail google](https://github.com/user-attachments/assets/cb330d05-3f7a-4e67-a363-ea64c86f0792)
+![image](https://github.com/user-attachments/assets/dea6c39e-978c-4911-abd7-d67e53c5e7d3)
 ---
 
 
