@@ -1,4 +1,4 @@
-# 📈 Business
+![image](https://github.com/user-attachments/assets/dea6c39e-978c-4911-abd7-d67e53c5e7d3)# 📈 Business
 
 ## 🌱 Sostenibilidad
 Consumir y producir sin comprometer a las generaciones futuras.
@@ -186,3 +186,140 @@ La economía busca satisfacer las necesidades humanas con recursos escasos.
   - **Estratégicos**: Largo plazo.
   - **Operacionales**: Medio plazo.
   - **Tácticos**: Corto plazo.
+
+## Tips para Organizar Reuniones
+- Máximo **5 personas** (Ideal: **3 personas**)
+- Máximo **3 temas** a tratar
+- Duración máxima: **30 minutos**
+
+---
+
+## Unidad 3: Organización de una Empresa
+
+### Concepto de Empresa
+- Sistema organizativo que comprende áreas, departamentos y se dedica a la producción de bienes o servicios.
+
+### Principales Áreas Funcionales
+1. **Área Comercial**: Análisis de mercado y estrategia de marketing.
+2. **Área de Producción**: Gestión de provisiones y producción.
+3. **Área de Recursos Humanos**: Selección y gestión de personal.
+4. **Área de Financiación e Inversión**: Obtención de fondos y decisiones de inversión.
+
+### Funciones de la Dirección
+- **Planificación y Organización** (mecánica)
+- **Gestión y Control** (dinámica)
+
+---
+
+## Comunicación en la Empresa
+- **Tipos de Comunicación**:
+  - **Externa** o **Interna**
+  - **Formal** o **Informal**
+- **Flujos de Comunicación**:
+  - Ascendente, descendente y horizontal
+- **Formatos**:
+  - Oral y escrita
+
+### Ejemplo de Comunicación: Colegio Hamelin
+- **Objetivo**: Identificar canales de comunicación para optimizar el flujo informativo.
+
+---
+
+## Estructura Organizativa
+- **Tipos de estructura**:
+  - **Lineal** o **Jerárquica**
+
+---
+
+## Patrimonio de la Empresa y Contabilidad
+- **Contabilidad (PGC 2007)**: Registro y estudio del patrimonio empresarial.
+- **Regulación**: PGC 2007 establece los principios contables.
+
+### Tipos de Auditoría
+1. **Auditoría de Cuentas**: Revisión de estados financieros.
+2. **Auditoría Operativa**: Evaluación de procesos internos.
+3. **Ecoauditoría**: Análisis del impacto ambiental.
+
+---
+
+## Organigrama
+- **Definición**: Representación gráfica de la estructura de la empresa que facilita la visualización jerárquica.
+
+---
+![mail google](https://github.com/user-attachments/assets/f777aa10-0f38-42e2-a58d-1b0997167c57)
+
+![mail google](https://github.com/user-attachments/assets/c22b82b0-e523-4954-baa9-f4e7ff107faa)
+
+---
+
+
+
+
+
+## Segmentación de Mercado
+1. **Demográfica**: Edad, sexo, nivel de ingresos, nivel cultural, profesión, tipo de familia.
+2. **Geográfica**: Ciudad, comunidad autónoma, continente, país, región.
+3. **Psicográfica**: Estilo de vida, intereses, valores.
+
+- **Nicho de Mercado**: Segmento específico de consumidores con características y necesidades similares.
+
+---
+
+## Estrategias de Mercado
+1. **Indiferenciada**: Dirigida a todos los consumidores (Ej.: Coca Cola).
+2. **Diferenciada**: Productos adaptados a segmentos (Ej.: Inditex).
+3. **Concentrada**: Enfocada en un nicho específico.
+4. **Personalizada**: La empresa adapta sus productos al cliente individual.
+
+### Propuesta de Valor
+- Elemento diferenciador respecto a la competencia que motiva al cliente a elegir el producto o servicio.
+
+### Canales de Comunicación con el Cliente
+- **Canales Directos**: Vendedores, sitio web de la empresa.
+- **Canales Indirectos**: Tiendas de terceros, plataformas multiproducto.
+
+---
+![mail google](https://github.com/user-attachments/assets/cb330d05-3f7a-4e67-a363-ea64c86f0792)
+---
+
+
+
+## Reflexión de Henry Ford
+**"If I had asked people what they wanted, they would have said faster horses."**
+
+### Significado
+Ford subraya que la innovación no siempre surge de las expectativas del consumidor, sino de anticipar sus necesidades. Esto destaca la importancia de la creatividad y de proponer soluciones innovadoras en lugar de solo mejorar lo existente.
+
+---
+
+## Consumidor Ético
+
+### Métodos para Obtener Información
+1. **Encuesta**: Puede ser personal, telefónica o en línea; permite detectar necesidades y evaluar la calidad del producto.
+2. **Cuestionarios**: Combinan preguntas abiertas y cerradas.
+3. **Encuesta de Satisfacción** y **Encuesta de Conocimiento de Marca**
+4. **Observación**: Sin intervención directa, lo cual asegura la fiabilidad de los datos.
+5. **Investigación Experimental**: Cambios en variables del producto para observar la reacción del cliente (precio, producto, comercialización).
+
+---
+
+## Ejercicio de Selectividad: Cliente en Tienda de Ropa Deportiva
+- **Perfil**: Cliente que acumula puntos en la web, recibe promociones, sigue la marca en redes sociales y tiene interés en surf.
+- **Objetivo**: Comprender al cliente para adaptar estrategias y promociones.
+
+---
+
+## Marketing Mix
+
+### Las 4P Clásicas
+1. **Producto (Product)**
+2. **Precio (Price)**
+3. **Promoción (Promotion)**
+4. **Distribución (Place)**
+
+### Las Nuevas 3P
+5. **Evidencia Física (Physical Evidence)**: Percepciones físicas que refuerzan la marca.
+6. **Personas (People)**: Enfoque en los empleados y la experiencia del cliente.
+7. **Proceso (Process)**: Flujo y eficiencia del servicio al cliente.
+
+- Estas 4P y 3P adicionales se centran en crear, comunicar y distribuir una **Propuesta de Valor** única para el cliente.
