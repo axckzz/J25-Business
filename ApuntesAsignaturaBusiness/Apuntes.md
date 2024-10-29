@@ -285,10 +285,13 @@ La economía busca satisfacer las necesidades humanas con recursos escasos.
 
 
 ## Reflexión de Henry Ford
-**"If I had asked people what they wanted, they would have said faster horses."**
 
-### Significado
-Ford subraya que la innovación no siempre surge de las expectativas del consumidor, sino de anticipar sus necesidades. Esto destaca la importancia de la creatividad y de proponer soluciones innovadoras en lugar de solo mejorar lo existente.
+“If i had asked people what they wanted, they would have said faster horse”
+
+La frase de Henry Ford “If I had asked people what they wanted, they would have said faster horses” 
+
+Esto nos enseña que a veces las grandes ideas no nacen de escuchar lo que todos quieren, sino de pensar más allá de lo obvio. Ford no se conformó con lo que ya había, sino que buscó una solución más innovadora. Si se hubiera limitado a lo que las personas pedían, no habría creado algo que revolucionó el mundo. La frase también muestra la importancia de la creatividad y de no tener miedo a cambiar las cosas, incluso si al principio la gente no lo entiende del todo.
+
 
 ---
 
